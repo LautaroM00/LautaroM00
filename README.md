@@ -1,4 +1,4 @@
-### <div align="center" style="font-size: 50px;">Lautaro Miceli - FullStack Developer</div>  
+# Lautaro Miceli - FullStack Developer
 
 
 - 🔭 I’m currently working on [a new project](https://github.com/No-Country-simulation/c23-74-webapp).  
@@ -28,9 +28,8 @@
 </div>  
 
 
-### <div align="center" style="font-size: 50px;">My skill set</div>  
+## My skill set
 
-<hr>
 
 
 <h3 align="center" style="font-size: 30px;">Frontend</h3>
